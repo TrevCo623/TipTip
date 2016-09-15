@@ -3,4 +3,4 @@ Tip Calculator
 
 Made some cool shit.
 
-/Users/ddk241/Desktop/TipTip.gif
+![tiptip gif](TipTip.gif)
